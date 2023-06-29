@@ -1,4 +1,5 @@
-!/bin/bash
+#!/usr/bin/env bash
+
 
 echo "运行一键更新命令"
 sudo -i
