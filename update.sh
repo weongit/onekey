@@ -1,6 +1,6 @@
-#!/bin/bash
+!/bin/bash
 
-# 运行一键更新命令
+运行一键更新命令
 sudo -i
 sudo apt update
 apt-get update
